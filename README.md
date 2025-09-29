@@ -48,6 +48,7 @@ Data is scraped from:
    ```bash
    git clone https://github.com/virakbuthchhan/nbc-exchange-rate-kh-usd.git
    cd nbc-exchange-rate-kh-usd
+   cp .env.example .env
    ```
 
 2. **Install dependencies**
