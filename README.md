@@ -94,7 +94,8 @@ MIT License – feel free to use in personal or commercial projects.
 
 ## 🙌 Author
 
-- **Your Name**
+- **Virakbuth Chhan**
+- Website: [chhanvirakbuth.me](https://www.chhanvirakbuth.me)
 - GitHub: [@virakbuthchhan](https://github.com/virakbuthchhan)
 - Email: chhanvirakbuth1999@gmail.com
 
