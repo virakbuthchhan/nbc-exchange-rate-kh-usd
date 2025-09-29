@@ -28,7 +28,7 @@ Data is scraped from:
 | `GET`  | `/api/exchange-rate` | Get official USD/KHR rate |
 | `GET`  | `/health`            | Health check              |
 
-### Example Response (`/api/exchange-rates`):
+### Example Response (`/api/exchange-rate`):
 
 ```json
 {
